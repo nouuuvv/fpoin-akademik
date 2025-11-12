@@ -1,0 +1,272 @@
+[
+  {
+    "kode": "BEM1",
+    "jenis": "Badan Eksekutif Mahasiswa",
+    "peran": "Ketua",
+    "poin": 40
+  },
+  {
+    "kode": "BEM2",
+    "jenis": "Badan Eksekutif Mahasiswa",
+    "peran": "Wakil Ketua",
+    "poin": 35
+  },
+  {
+    "kode": "BEM3",
+    "jenis": "Badan Eksekutif Mahasiswa",
+    "peran": "Sekretaris",
+    "poin": 20
+  },
+  {
+    "kode": "BEM4",
+    "jenis": "Badan Eksekutif Mahasiswa",
+    "peran": "Bendahara",
+    "poin": 20
+  },
+  {
+    "kode": "BEM5",
+    "jenis": "Badan Eksekutif Mahasiswa",
+    "peran": "Koordinator Seksi",
+    "poin": 15
+  },
+  {
+    "kode": "BEM6",
+    "jenis": "Badan Eksekutif Mahasiswa",
+    "peran": "Anggota",
+    "poin": 12
+  },
+  {
+    "kode": "UKM1",
+    "jenis": "Unit Kegiatan Mahasiswa",
+    "peran": "Ketua",
+    "poin": 30
+  },
+  {
+    "kode": "UKM2",
+    "jenis": "Unit Kegiatan Mahasiswa",
+    "peran": "Wakil Ketua",
+    "poin": 25
+  },
+  {
+    "kode": "UKM3",
+    "jenis": "Unit Kegiatan Mahasiswa",
+    "peran": "Sekretaris",
+    "poin": 20
+  },
+  {
+    "kode": "UKM4",
+    "jenis": "Unit Kegiatan Mahasiswa",
+    "peran": "Bendahara",
+    "poin": 20
+  },
+  {
+    "kode": "UKM5",
+    "jenis": "Unit Kegiatan Mahasiswa",
+    "peran": "Koordinator Seksi",
+    "poin": 15
+  },
+  {
+    "kode": "UKM6",
+    "jenis": "Unit Kegiatan Mahasiswa",
+    "peran": "Anggota",
+    "poin": 10
+  },
+  {
+    "kode": "PIK1",
+    "jenis": "Panitia Event / Kegiatan Internal Kampus",
+    "peran": "Ketua",
+    "poin": 10
+  },
+  {
+    "kode": "PIK2",
+    "jenis": "Panitia Event / Kegiatan Internal Kampus",
+    "peran": "Wakil Ketua",
+    "poin": 9
+  },
+  {
+    "kode": "PIK3",
+    "jenis": "Panitia Event / Kegiatan Internal Kampus",
+    "peran": "Sekretaris",
+    "poin": 8
+  },
+  {
+    "kode": "PIK4",
+    "jenis": "Panitia Event / Kegiatan Internal Kampus",
+    "peran": "Bendahara",
+    "poin": 8
+  },
+  {
+    "kode": "PIK5",
+    "jenis": "Panitia Event / Kegiatan Internal Kampus",
+    "peran": "Koordinator Seksi",
+    "poin": 8
+  },
+  {
+    "kode": "PIK6",
+    "jenis": "Panitia Event / Kegiatan Internal Kampus",
+    "peran": "Anggota",
+    "poin": 6
+  },
+  {
+    "kode": "PNL1",
+    "jenis": "Penelitian",
+    "peran": "Ketua Tim Peneliti",
+    "poin": 25
+  },
+  {
+    "kode": "PNL2",
+    "jenis": "Penelitian",
+    "peran": "Anggota Tim Peneliti",
+    "poin": 10
+  },
+  {
+    "kode": "PNL3",
+    "jenis": "Penelitian",
+    "peran": "Pembicara Seminar Nasional",
+    "poin": 30
+  },
+  {
+    "kode": "PNL4",
+    "jenis": "Penelitian",
+    "peran": "Peserta Seminar Nasional",
+    "poin": 8
+  },
+  {
+    "kode": "PNL5",
+    "jenis": "Penelitian",
+    "peran": "Penelitian Mandiri",
+    "poin": 20
+  },
+  {
+    "kode": "PMS1",
+    "jenis": "Pengabdian Masyarakat",
+    "peran": "Tim",
+    "poin": 10
+  },
+  {
+    "kode": "PMS2",
+    "jenis": "Pengabdian Masyarakat",
+    "peran": "Mandiri",
+    "poin": 15
+  },
+  {
+    "kode": "PKK1",
+    "jenis": "Peserta Kegiatan Kampus",
+    "peran": "Kegiatan Keagamaan",
+    "poin": 5
+  },
+  {
+    "kode": "PKK2",
+    "jenis": "Peserta Kegiatan Kampus",
+    "peran": "Kuliah Umum",
+    "poin": 5
+  },
+  {
+    "kode": "PKK3",
+    "jenis": "Peserta Kegiatan Kampus",
+    "peran": "Sosialisasi / Seminar",
+    "poin": 3
+  },
+  {
+    "kode": "MDB1",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Karya Non Riset (membuat karya musik/tari, dll)",
+    "poin": 20
+  },
+  {
+    "kode": "MDB2",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Prestasi (ikut lomba) juara 1,2/3 tingkat Kabupaten",
+    "poin": 10
+  },
+  {
+    "kode": "MDB3",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Prestasi (ikut lomba) juara 1,2/3 tingkat Propinsi",
+    "poin": 15
+  },
+  {
+    "kode": "MDB4",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Prestasi (ikut lomba) juara 1,2/3 tingkat Nasional",
+    "poin": 20
+  },
+  {
+    "kode": "MDB5",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Partisipasi dalam lomba tingkat Kabupaten",
+    "poin": 5
+  },
+  {
+    "kode": "MDB6",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Partisipasi dalam lomba tingkat Propinsi",
+    "poin": 6
+  },
+  {
+    "kode": "MDB7",
+    "jenis": "Pengembangan Minat dan Bakat",
+    "peran": "Partisipasi dalam lomba tingkat Nasional",
+    "poin": 7
+  },
+  {
+    "kode": "OKS1",
+    "jenis": "Organisasi Kerjasama (HIPMI atau sejenisnya)",
+    "peran": "Ketua",
+    "poin": 10
+  },
+  {
+    "kode": "OKS2",
+    "jenis": "Organisasi Kerjasama (HIPMI atau sejenisnya)",
+    "peran": "Sekretaris / Bendahara",
+    "poin": 8
+  },
+  {
+    "kode": "OKS3",
+    "jenis": "Organisasi Kerjasama (HIPMI atau sejenisnya)",
+    "peran": "Koordinator Seksi",
+    "poin": 7
+  },
+  {
+    "kode": "OKS4",
+    "jenis": "Organisasi Kerjasama (HIPMI atau sejenisnya)",
+    "peran": "Anggota",
+    "poin": 5
+  },
+  {
+    "kode": "MNT1",
+    "jenis": "Mentor / Tutor",
+    "peran": "Asisten Lab",
+    "poin": 20
+  },
+  {
+    "kode": "MNT2",
+    "jenis": "Mentor / Tutor",
+    "peran": "Tutor Prakerin",
+    "poin": 20
+  },
+  {
+    "kode": "KEK1",
+    "jenis": "Partisipasi Kegiatan Eksternal Kampus",
+    "peran": "Upacara",
+    "poin": 3
+  },
+  {
+    "kode": "KEK2",
+    "jenis": "Partisipasi Kegiatan Eksternal Kampus",
+    "peran": "Promosi",
+    "poin": 3
+  },
+  {
+    "kode": "KEK3",
+    "jenis": "Partisipasi Kegiatan Eksternal Kampus",
+    "peran": "Wisuda",
+    "poin": 3
+  },
+  {
+    "kode": "KEK4",
+    "jenis": "Partisipasi Kegiatan Eksternal Kampus",
+    "peran": "Event Lokal",
+    "poin": 7
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150123",
+      "nama": "Rani Putri",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-01",
+      "kode_kegiatan": "BEM1",
+      "rincian_acara": "Rapat Koordinasi BEM",
+      "tingkat": "Universitas",
+      "tempat": "Ruang Rapat A",
+      "tanggal_pelaksanaan": "2025-08-10",
+      "mentor": "Dosen A",
+      "narasumber": "Ketua BEM",
+      "status": "Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150124",
+      "nama": "Ahmad Fauzi",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-02",
+      "kode_kegiatan": "BEM2",
+      "rincian_acara": "Pembukaan Seminar",
+      "tingkat": "Universitas",
+      "tempat": "Auditorium",
+      "tanggal_pelaksanaan": "2025-08-11",
+      "mentor": "Dosen B",
+      "narasumber": "Wakil Ketua BEM",
+      "status": "Belum Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150125",
+      "nama": "Siti Aisyah",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-03",
+      "kode_kegiatan": "BEM3",
+      "rincian_acara": "Workshop Kepemimpinan",
+      "tingkat": "Universitas",
+      "tempat": "Lab Komputer",
+      "tanggal_pelaksanaan": "2025-08-12",
+      "mentor": "Dosen C",
+      "narasumber": "Sekretaris BEM",
+      "status": "Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150126",
+      "nama": "Dewi Lestari",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-04",
+      "kode_kegiatan": "BEM4",
+      "rincian_acara": "Pelatihan Bendahara",
+      "tingkat": "Universitas",
+      "tempat": "Ruang Kelas 2",
+      "tanggal_pelaksanaan": "2025-08-13",
+      "mentor": "Dosen D",
+      "narasumber": "Bendahara BEM",
+      "status": "Revisi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150127",
+      "nama": "Fajar Hidayat",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-05",
+      "kode_kegiatan": "BEM5",
+      "rincian_acara": "Koordinasi Seksi",
+      "tingkat": "Universitas",
+      "tempat": "Ruang Kegiatan",
+      "tanggal_pelaksanaan": "2025-08-14",
+      "mentor": "Dosen E",
+      "narasumber": "Koordinator Seksi",
+      "status": "Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150128",
+      "nama": "Budi Santoso",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-06",
+      "kode_kegiatan": "UKM1",
+      "rincian_acara": "Rapat UKM",
+      "tingkat": "Fakultas",
+      "tempat": "Ruang UKM",
+      "tanggal_pelaksanaan": "2025-08-15",
+      "mentor": "Dosen F",
+      "narasumber": "Ketua UKM",
+      "status": "Belum Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150129",
+      "nama": "Intan Permata",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-07",
+      "kode_kegiatan": "UKM2",
+      "rincian_acara": "Seminar UKM",
+      "tingkat": "Fakultas",
+      "tempat": "Auditorium UKM",
+      "tanggal_pelaksanaan": "2025-08-16",
+      "mentor": "Dosen G",
+      "narasumber": "Wakil Ketua UKM",
+      "status": "Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150130",
+      "nama": "Citra Lestari",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-08",
+      "kode_kegiatan": "UKM3",
+      "rincian_acara": "Workshop UKM",
+      "tingkat": "Fakultas",
+      "tempat": "Lab UKM",
+      "tanggal_pelaksanaan": "2025-08-17",
+      "mentor": "Dosen H",
+      "narasumber": "Sekretaris UKM",
+      "status": "Revisi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150131",
+      "nama": "Dani Prasetyo",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-09",
+      "kode_kegiatan": "UKM4",
+      "rincian_acara": "Pelatihan Bendahara UKM",
+      "tingkat": "Fakultas",
+      "tempat": "Ruang UKM",
+      "tanggal_pelaksanaan": "2025-08-18",
+      "mentor": "Dosen I",
+      "narasumber": "Bendahara UKM",
+      "status": "Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  },
+  {
+    "identitas_mahasiswa": {
+      "nim": "22150132",
+      "nama": "Eka Pramesti",
+      "periode": "Genap 2024-2025",
+      "program_studi": "Teknik Informatika"
+    },
+    "informasi_kegiatan": {
+      "tanggal_pengajuan": "2025-08-10",
+      "kode_kegiatan": "UKM5",
+      "rincian_acara": "Koordinasi Seksi UKM",
+      "tingkat": "Fakultas",
+      "tempat": "Ruang UKM",
+      "tanggal_pelaksanaan": "2025-08-19",
+      "mentor": "Dosen J",
+      "narasumber": "Koordinator Seksi UKM",
+      "status": "Belum Terverifikasi",
+      "bukti_poin": "/dumy.pdf"
+    }
+  }
+]

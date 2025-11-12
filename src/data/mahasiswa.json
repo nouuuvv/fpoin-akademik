@@ -1,0 +1,321 @@
+[
+  {
+    "id": 1,
+    "nim": "22150123",
+    "name": "Rani Putri",
+    "prodi": "S1",
+    "poin": 35,
+    "angkatan": "2022",
+    "tanggalLahir": "2004-05-10",
+    "tempatLahir": "Surabaya",
+    "alamat": "Jl. Mawar No. 12",
+    "phone": "081234567890",
+    "email": "rani.putri@example.com",
+    "ipk": 3.8,
+    "instagram": "@rani.putri",
+    "foto": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
+    "activities": [
+      {
+        "id": 1,
+        "namaKegiatan": "Kegiatan Bakti Sosial",
+        "tanggal": "2025-01-15",
+        "poin": 5,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 2,
+        "namaKegiatan": "Workshop Kepemimpinan",
+        "tanggal": "2025-02-10",
+        "poin": 5,
+        "status": "Terverifikasi"
+      }
+    ],
+    "competitions": [
+      {
+        "id": 3,
+        "namaKegiatan": "Lomba Esai",
+        "tanggal": "2025-03-05",
+        "poin": 5,
+        "status": "Revisi",
+        "tingkat": "Nasional"
+      },
+      {
+        "id": 7,
+        "namaKegiatan": "Lomba Catur",
+        "tanggal": "2025-06-15",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Kota"
+      },
+      {
+        "id": 8,
+        "namaKegiatan": "Lomba Menulis",
+        "tanggal": "2025-07-20",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Internasional"
+      },
+      {
+        "id": 9,
+        "namaKegiatan": "Lomba Musik",
+        "tanggal": "2025-08-25",
+        "poin": 5,
+        "status": "Revisi",
+        "tingkat": "Provinsi"
+      },
+      {
+        "id": 10,
+        "namaKegiatan": "Lomba Tari",
+        "tanggal": "2025-09-30",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Nasional"
+      },
+      {
+        "id": 11,
+        "namaKegiatan": "Lomba Film Pendek",
+        "tanggal": "2025-10-15",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Internasional"
+      }
+
+    ]
+  },
+  {
+    "id": 2,
+    "nim": "22150124",
+    "name": "Ahmad Aldino",
+    "prodi": "D3",
+    "poin": 122,
+    "angkatan": "2022",
+    "tanggalLahir": "2004-07-20",
+    "tempatLahir": "Surabaya",
+    "alamat": "Jl. Melati No. 45",
+    "phone": "081234567891",
+    "email": "ahmad.aldino@example.com",
+    "ipk": 3.9,
+    "instagram": "@ahmad.aldino",
+    "foto": "/images/3x4.jpg",
+    "activities": [
+      {
+        "id": 1,
+        "namaKegiatan": "Seminar Teknologi",
+        "tanggal": "2025-01-20",
+        "poin": 3,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 2,
+        "namaKegiatan": "Pelatihan Bahasa Inggris",
+        "tanggal": "2025-02-15",
+        "poin": 2,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 3,
+        "namaKegiatan": "Kegiatan Magang",
+        "tanggal": "2025-03-01",
+        "poin": 95,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 5,
+        "namaKegiatan": "Kegiatan Volunteer",
+        "tanggal": "2025-04-10",
+        "poin": 5,
+        "status": "Revisi"
+      },
+      {
+        "id": 6,
+        "namaKegiatan": "Pelatihan Desain Grafis",
+        "tanggal": "2025-05-05",
+        "poin": 5,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 7,
+        "namaKegiatan": "Kegiatan Sosialisasi",
+        "tanggal": "2025-06-12",
+        "poin": 5,
+        "status": "Terverifikasi"
+      }
+
+    ],
+    "competitions": [
+      {
+        "id": 4,
+        "namaKegiatan": "Lomba Cerdas Cermat",
+        "tanggal": "2025-03-20",
+        "poin": 5,
+        "status": "Revisi",
+        "tingkat": "Provinsi"
+      },
+      {
+        "id": 5,
+        "namaKegiatan": "Lomba Debat",
+        "tanggal": "2025-04-15",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Kota"
+      },
+      {
+        "id": 6,
+        "namaKegiatan": "Lomba Fotografi",
+        "tanggal": "2025-05-10",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Internasional"
+      },
+      {
+        "id": 12,
+        "namaKegiatan": "Lomba Desain Grafis",
+        "tanggal": "2025-11-20",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Nasional"
+      },
+      {
+        "id": 13,
+        "namaKegiatan": "Lomba Koding",
+        "tanggal": "2025-12-15",
+        "poin": 5,
+        "status": "Revisi",
+        "tingkat": "Internasional"
+      }
+
+
+    ]
+  },
+  {
+    "id": 3,
+    "nim": "22150125",
+    "name": "Ahmad Saputra",
+    "prodi": "S1",
+    "poin": 5,
+    "angkatan": "2022",
+    "tanggalLahir": "2004-06-15",
+    "alamat": "Jl. Kenanga No. 8",
+    "phone": "081234567892",
+    "email": "ahmad.saputra@example.com",
+    "instagram": "@ahmad.saputra",
+    "ipk": 3.7,
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "activities": [
+      {
+        "id": 1,
+        "namaKegiatan": "Pelatihan Softskill",
+        "tanggal": "2025-02-05",
+        "poin": 5,
+        "status": "Terverifikasi"
+      }
+    ],
+    "competitions": []
+  },
+  {
+    "id": 4,
+    "nim": "22150126",
+    "name": "Siti Aminah",
+    "prodi": "D3",
+    "poin": 2,
+    "angkatan": "2022",
+    "tanggalLahir": "2004-08-30",
+    "tempatLahir": "Banyuwangi",
+    "alamat": "Jl. Anggrek No. 9",
+    "phone": "081234567893",
+    "email": "siti.aminah@example.com",
+    "foto": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "activities": [
+      {
+        "id": 1,
+        "namaKegiatan": "Kegiatan Donor Darah",
+        "tanggal": "2025-03-12",
+        "poin": 2,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 2,
+        "namaKegiatan": "Pelatihan Fotografi",
+        "tanggal": "2025-04-18",
+        "poin": 23,
+        "status": "Revisi"
+      },
+      {
+        "id": 3,
+        "namaKegiatan": "Kegiatan Sosialisasi",
+        "tanggal": "2025-05-22",
+        "poin": 5,
+        "status": "Terverifikasi"
+      }
+    ],
+    "competitions": []
+  },
+  {
+    "id": 5,
+    "nim": "22150127",
+    "name": "Budi Santoso",
+    "prodi": "S1",
+    "poin": 25,
+    "angkatan": "2022",
+    "tanggalLahir": "2004-04-05",
+    "tempatLahir": "Banyuwangi",
+    "alamat": "Jl. Cempaka No. 7",
+    "phone": "081234567894",
+    "email": "budi.santoso@example.com",
+    "instagram": "@budi.santoso",
+    "ipk": 3.8,
+    "foto": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "activities": [
+      {
+        "id": 2,
+        "namaKegiatan": "Pelatihan Kepemimpinan",
+        "tanggal": "2025-02-22",
+        "poin": 10,
+        "status": "Terverifikasi"
+      },
+      {
+        "id": 3,
+        "namaKegiatan": "Kegiatan Volunteer",
+        "tanggal": "2025-03-10",
+        "poin": 10,
+        "status": "Revisi"
+      }
+    ],
+    "competitions": [
+      {
+        "id": 1,
+        "namaKegiatan": "Lomba Poster",
+        "tanggal": "2025-01-18",
+        "poin": 5,
+        "status": "Terverifikasi",
+        "tingkat": "Internasional"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "nim": "22150128",
+    "name": "Dewi Lestari Indah",
+    "prodi": "D3",
+    "poin": 15,
+    "angkatan": "2022",
+    "tanggalLahir": "2004-09-25",
+    "tempatLahir": "Malang",
+    "alamat": "Jl. Dahlia No. 11",
+    "phone": "081234567895",
+    "email": "dewi.lestari@example.com",
+    "instagram": "@dewi.lestari",
+    "ipk": 3.7,
+    "foto": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=500&q=80",
+    "activities": [
+      {
+        "id": 1,
+        "namaKegiatan": "Pelatihan Kewirausahaan",
+        "tanggal": "2025-07-05",
+        "poin": 5,
+        "status": "Terverifikasi"
+      }
+    ],
+    "competitions": []
+  }
+]
