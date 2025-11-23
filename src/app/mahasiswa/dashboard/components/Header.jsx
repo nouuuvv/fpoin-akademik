@@ -38,9 +38,11 @@ export default function Header({ mahasiswa }) {
 
   // Badge logic
   let badgeSymbol = "bronze";
-  if (mahasiswa.poin >= 100) badgeSymbol = "diamond";
-  else if (mahasiswa.poin >= 80) badgeSymbol = "gold";
-  else if (mahasiswa.poin >= 50) badgeSymbol = "silver";
+  const poin = mahasiswa.total_poin || 0;
+
+  if (poin >= 100) badgeSymbol = "diamond";
+  else if (poin >= 80) badgeSymbol = "gold";
+  else if (poin >= 50) badgeSymbol = "silver";
 
   const badgeColor =
     badgeSymbol === "diamond"
@@ -64,6 +66,7 @@ export default function Header({ mahasiswa }) {
     if (words.length === 1) return words[0][0].toUpperCase();
     return (words[0][0] + words[words.length - 1][0]).toUpperCase();
   };
+
 
   return (
     <div
@@ -91,15 +94,16 @@ export default function Header({ mahasiswa }) {
       <div className="relative z-10 flex-shrink-0">
         {mahasiswa.foto ? (
           <img
-            src={mahasiswa.foto}
+            src={`${process.env.NEXT_PUBLIC_API_URL}${mahasiswa.foto}`}
             alt="Foto Mahasiswa"
             className="w-18 h-18 sm:w-22 sm:h-22 md:w-24 md:h-24 rounded-full object-cover shadow-lg border-4 border-white transition-transform duration-300 hover:scale-105"
           />
         ) : (
           <div className="w-18 h-18 sm:w-22 sm:h-22 md:w-24 md:h-24 rounded-full bg-gray-300 text-white flex items-center justify-center text-lg sm:text-xl md:text-2xl font-bold border-4 border-white shadow-lg">
-            {getInitials(mahasiswa.name)}
+            {getInitials(mahasiswa.nama_mhs)}
           </div>
         )}
+
         <div
           className={`absolute -bottom-1 -right-1 w-6 h-6 sm:w-7 sm:h-7 md:w-8 md:h-8 ${badgeColor} rounded-full flex items-center justify-center shadow-md border-2 border-white`}
         >
